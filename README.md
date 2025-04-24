@@ -1,0 +1,1 @@
+https://playerregistration.vercel.app
